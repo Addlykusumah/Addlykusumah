@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 Here are some ideas to get you started :
 
-🔭 I’m currently study on SMK Telkom Malang
-🌱 I’m currently learning programming
-👯 I’m looking to collaborate on google
-📫 How to reach me: email(@addlykusumah190408@gmail.com)
-😄 Pronouns: he/him
+- 🔭 I’m currently study on SMK Telkom Malang
+- 🌱 I’m currently learning programming
+- 👯 I’m looking to collaborate on google
+- 📫 How to reach me:email(@addlykusumah190408@gmail.com)
+- 😄 Pronouns: he/him
 
 
